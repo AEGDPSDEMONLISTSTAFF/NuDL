@@ -1,1 +1,12 @@
-
+{
+    "id": 100,
+    "name": "Acid Forest",
+    "author": "BrushGMD",
+    "creators": ["BrushGMD"],
+    "verifier": "BrushGMD",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "Free To Copy",
+    "records": [
+    ]
+}
